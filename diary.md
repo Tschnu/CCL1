@@ -14,8 +14,10 @@ Fixing bugs and turning off the smoothing for the images.
 Drawing the furniture and putting it into the game. A Rules and Controle got added to the menu.
 
 20.1. 2025
+Added the rest of the background and put in floors.
 
 21.1. 2025
+I put in Soundeffects and added objets
 
 22.1. 2025
 
