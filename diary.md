@@ -8,8 +8,8 @@ I created the kitchenCounter and put in gabs to jump over. I fixed the issue wit
 I put in the start screen with a button to start the game and also a end game screen, when the player object reaches a certain point. A timer got added and if it rans out it, another game over screen shows.
 
 16.1. 2025
-
 Fixing bugs and turning off the smoothing for the images.
+
 17.1. 2025
 Drawing the furniture and putting it into the game. A Rules and Controle got added to the menu.
 
