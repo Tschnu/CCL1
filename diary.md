@@ -20,6 +20,7 @@ Added the rest of the background and put in floors.
 I put in Soundeffects and added objets
 
 22.1. 2025
+fixed the sink, finished the background, added backgroundmusik
 
 23.1. 2025
 
