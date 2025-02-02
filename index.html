@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mug Panic: Back to the shelf</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="">
+  <link rel="stylesheet" type="text/css" href="./css/style.css">
+  <link rel="icon" href="favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barriecito&family=Barrio&family=Jersey+15&family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
+</head>
+<body class="barriecito-regular">
+  
+  <div id="startScreen">
+    <h1>Mug Panic: Back to the shelf</h1>
+    <button id="startButton"  class="barriecito-regular">Start</button>
+    <button id="controlButton" class="barriecito-regular">Control</button>
+    <button id="rulesButton" class="barriecito-regular">Rules</button>
+    
+  </div>
+
+  <div id="rules">
+    <h1>Rules: </h1>
+      <p>get back to the shelf in time</p>
+      <p>don't fall down</p>
+      <p>be carful, not everything you touch is safe</p>
+   
+    <button id="backRules" class="barriecito-regular">Back</button>
+  </div>
+
+  <div id="control">
+    <h1>Controls:</h1>
+    <img class="controlling" src="./images/tastatur.png" alt="tastatur">
+    <button id="back" class="barriecito-regular">Back</button>
+  </div>
+
+  <div id="winScreen">
+    <h1>You got back in time!!</h1>
+     <p>The human didn't go insane!</p>
+     <img src="./images/tassesitz.png" alt="tassesitz">
+     <button id="retryButtonWin" class="barriecito-regular">Retry</button>
+  </div>
+
+  <div id="gameOverScreen">
+    <h1>Game Over</h1>
+    <p>The cup broke!</p>
+    <button id="retryButton" class="barriecito-regular">Retry</button>
+  </div>
+
+  <div id="timeoutGameOverScreen">
+    <h1>Game Over</h1>
+    <p>The human went insane.</p>
+    <video autoplay muted class="video">
+      <source src="video/Running3.mp4" type="video/mp4">
+    </video><br>
+    <button id="retryButtonTime" class="barriecito-regular">Retry</button>
+  </div>
+
+
+  <div id="gameContainer">
+    
+
+    <div id="background">
+      <div id="timer">Time Left: <span id="timeRemaining">60</span> seconds</div>
+    </div>
+    <canvas id="canvas" width="18000" height="650"></canvas></div>
+  
+
+  <script type="module" src="./scripts/modules/global.js"></script>
+  <script type="module" src="./scripts/modules/input.js"></script>
+  <script type="module" src="./scripts/modules/main.js"></script>
+  
+</body>
+</html>
