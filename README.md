@@ -1,8 +1,7 @@
 # 🎮 **Mug Panic: Back to the shelf** 
 
-> **About**: It is about a cup that needs to get back to the shelf as fast as possible without falling down or running out of time.
+> **The game**: It is about a cup that needs to get back to the shelf as fast as possible without falling down or running out of time.
 > 
-> *Example:* "Explore an alien planet in this retro-inspired platformer where gravity is your greatest ally—or enemy!"
 
 ---
 
@@ -34,7 +33,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Player Character:
 <div style="text-align: center;">
-  <img src="image/ahhhhh.png" alt="Player Spritesheet" width="500">
+  <img src="images/ahhhhh.png" alt="Player Spritesheet" width="500">
   <p>*Figure 3: Player character animations.*</p>
 </div>
 
