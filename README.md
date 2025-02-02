@@ -15,7 +15,7 @@
 ### Main Gameplay:
 <div style="text-align: center;">
   <img src="gameplay.png" alt="Gameplay Screenshot" width="600">
-  <p>*You walk around the kitchen trying not to break.*</p>
+  <p>You walk around the kitchen trying not to break.</p>
 </div>
 
 ---
@@ -23,7 +23,7 @@
 ### Menu and UI:
 <div style="text-align: center;">
   <img src="startscreen.png" alt="Menu UI Screenshot" width="600">
-  <p>*At the start screen, you can see how to control, the game and read the rules*</p>
+  <p>At the start screen, you can see how to control, the game and read the rules</p>
 </div>
 
 ---
@@ -34,7 +34,7 @@ Below are the sprites used to create characters and objects in the game:
 ### Player Character:
 <div style="text-align: center;">
   <img src="images/ahhhhh.png" alt="Player Spritesheet" width="500">
-  <p>*Figure 3: Player character animations.*</p>
+  <p>Player character animations.</p>
 </div>
 
 ---
@@ -42,9 +42,9 @@ Below are the sprites used to create characters and objects in the game:
 ### The Obstacles:
 <div style="text-align: center;">
   <img src="images/fire.png" alt="Flame" width="200">
-  <p>*Flame from a candle*</p>
+  <p>Flame from a candle</p>
   <img src="images/fireg.png" alt="Fire" width="400">
-  <p>*Flame from a candle*</p>
+  <p>fire on the stove</p>
 </div>
 
 ---
