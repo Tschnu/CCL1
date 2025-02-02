@@ -1,6 +1,6 @@
 # 🎮 **Mug Panic: Back to the shelf** 
 
-> **Short Pitch**: A brief and catchy description of your game. Highlight the concept, genre, and key features.
+> **About**: It is about a cup that needs to get back to the shelf as fast as possible without falling down or running out of time.
 > 
 > *Example:* "Explore an alien planet in this retro-inspired platformer where gravity is your greatest ally—or enemy!"
 
