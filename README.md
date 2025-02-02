@@ -41,7 +41,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### The Obstacles:
 <div style="text-align: center;">
-  <img src="images/fire.png" alt="Flame" width="500">
+  <img src="images/fire.png" alt="Flame" width="300">
   <p>*Flame from a candle*</p>
   <img src="images/fireg.png" alt="Fire" width="500">
   <p>*Flame from a candle*</p>
