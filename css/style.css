@@ -177,8 +177,8 @@ p {
 
 #background {
     position: absolute;
-    left: 0px;
-    top: 50px;
+    left: 0;
+    top: 50;
     width: 1300px;  
     height: 650px;
     background-image: url("../images/Richtige\ Fliesen.png");
@@ -222,7 +222,7 @@ p {
 #timer {
     position: sticky;    
     font-size: 24px;
-    color: black;
+    color: blackqw;
     padding: 10px;
     text-align: center;
 }
