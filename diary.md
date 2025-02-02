@@ -14,14 +14,16 @@ Fixing bugs and turning off the smoothing for the images.
 Drawing the furniture and putting it into the game. A Rules and Controle got added to the menu.
 
 20.1. 2025
-Added the rest of the background and put in floors.
+Added the rest of the background and put in all the floors.
 
 21.1. 2025
-I put in Soundeffects and added objets
+I looked online for free Soundeffects and added them to my game. I also added the rules and control buttons on the start screen
 
 22.1. 2025
-fixed the sink, finished the background, added backgroundmusik
+With help from other we fixed the sink and I finished the background. Backgroundmusik got also added. I changed the css file gave the start screen, end screens, win screen, rules screen and control  screen a design
 
-23.1. 2025
+23.1. 2025.
+I looked over everything to make sure the game is in order and made screenshots for the mini-pitch
 
 24.1. 2025
+All the games got presented and played afterwards.
