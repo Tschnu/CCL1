@@ -52,13 +52,14 @@ Below are the sprites used to create characters and objects in the game:
 ## ✍️ **Reflection**
 
 ### What went well:
-- **Creative Design:** The theme and style came together seamlessly, and the sprites were fun to design.
-- **Core Mechanics:** The gravity-based gameplay worked better than expected and provided a unique challenge.
+- **Mug:** I really like the design of the mug, although it is very simple.
+- **Core Mechanics:**
 
 ### Challenges:
-- **Time Constraints:** Implementing all the features we envisioned wasn’t possible due to the limited timeframe.
-- **Bug Fixes:** Handling collisions and edge cases for gravity mechanics was tricky.
+- **Pixelated:** In the end it only was one line of code I hade to add to make the objects pixelated and not smoothed out, but it took me longer to realize that, than I thought.
+- **Falling through:** The mug kept falling though one place in the game. In the end the solution was the order of the platforms, that the mug is standing on.
+- **Music:** One soundeffect wouldn't work and it took me a long time to fix it.
 
 ### Lessons Learned:
-- **Prototyping Matters:** Testing early prototypes helped refine the core mechanics quickly.
+- **Diffrent Style:** I drew the mug first and than the rest. Only later on I realized, that the Mug has a black outline but nothing else. Also you can see a little bit of the top of the mug but no other object can be seen from that angle.
 - **Keep it Simple:** Focusing on one unique mechanic instead of multiple features made the game more polished.
