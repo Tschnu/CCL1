@@ -11,7 +11,10 @@
     align-items: center;
     z-index: 1000;
     background-image: url('../images/start.png');
-    image-rendering: pixelated;   
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+    image-rendering: pixelated;  
 }
   
 .controlling {
