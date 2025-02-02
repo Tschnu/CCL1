@@ -34,7 +34,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Player Character:
 <div style="text-align: center;">
-  <img src="mug.png" alt="Player Spritesheet" width="500">
+  <img src="image/ahhhhh.png" alt="Player Spritesheet" width="500">
   <p>*Figure 3: Player character animations.*</p>
 </div>
 
