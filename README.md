@@ -62,4 +62,3 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Lessons Learned:
 - **Diffrent Style:** I drew the mug first and than the rest. Only later on I realized, that the Mug has a black outline but nothing else. Also you can see a little bit of the top of the mug but no other object can be seen from that angle.
-- **Keep it Simple:** Focusing on one unique mechanic instead of multiple features made the game more polished.
